@@ -1,0 +1,10 @@
+id : 46986421
+name : Dark Magician
+type : Normal Monster
+desc : ''The ultimate wizard in terms of attack and defense.''
+atk : 2500
+def : 2100
+level : 7
+race : Spellcaster
+attribute : DARK
+archetype : Dark Magician
